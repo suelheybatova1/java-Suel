@@ -12,7 +12,7 @@ public class Main {
         double weight = 89.900;
 
         //operations that we do
-        System.out.println(age*36);
+        System.out.println(age*365);
         System.out.println(weight/(height*height));
 
         //usage of increment
