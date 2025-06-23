@@ -22,10 +22,6 @@ public class TaskMassive {
         }
     }
 }
-
-
-
-
         //String[] names = {"Ali","Alihandro","Maryam","Aflatun","Elemdar"};
        // int[] numbers = {44,45,66,75,33};
 
